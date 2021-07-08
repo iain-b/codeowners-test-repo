@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: codeowners-test-repo
+  annotations:
+    github.com/project-slug: iain-b/codeowners-test-repo
+spec:
+  type: other
+  lifecycle: unknown
